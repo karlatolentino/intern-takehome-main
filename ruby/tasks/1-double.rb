@@ -6,5 +6,5 @@
  # @returns {Number} The input doubled
 #
 def double_integer(integer)
-    integer
+    
 end
