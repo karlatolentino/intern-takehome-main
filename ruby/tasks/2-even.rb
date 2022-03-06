@@ -6,5 +6,5 @@
  # @returns {Boolean} Whether the input is even.
 #
 def is_even_number(integer)
-    
+    integer.even?
 end
